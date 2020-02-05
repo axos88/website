@@ -819,6 +819,13 @@
 			"library": "C++"
 		},
 		{
+			"name": "acme-lib",
+			"url": "https://github.com/algesten/acme-lib"
+			"category": "Rust",
+			"acme_v2": "true",
+			"library": "Rust"
+		},
+		{
 			"name": "bacme",
 			"url": "https://gitlab.com/sinclair2/bacme",
 			"category": "Bash",
